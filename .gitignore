@@ -1,0 +1,21 @@
+starter-datasets.zip
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.db
+data/facts.db
+.DS_Store
+.pytest_cache/
+.superpowers/
+data/uploads/
+
+# demo recording is shared as an external link, never committed
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.avi
+*.gif
+recordings/
