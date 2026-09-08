@@ -1,0 +1,44 @@
+[
+  {
+    "subject": "Company",
+    "subject_key": "company",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 58500000,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "June 28, 2014",
+    "basis": {},
+    "evidence_quote": "increase in authorised \nshare capital from \u20b954,000,000 divided into 600,000 equity shares of \u20b910 each, 300,000 \npreference shares of \u20b910 each and 450,000 preference shares of \u20b9100 each to \u20b958,500,000",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Company",
+    "subject_key": "company",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 134500000,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "July 24, 2014",
+    "basis": {},
+    "evidence_quote": "increase in authorised \nshare capital from \u20b958,500,000 divided into 600,000 equity shares of \u20b910 each, 300,000 \npreference shares of \u20b910 each, 450,000 preference shares of \u20b9100 each and 45,000 preference \nshares of \u20b9100 each to \u20b9134,500,000",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Company",
+    "subject_key": "company",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 174500000,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "March 27, 2015",
+    "basis": {},
+    "evidence_quote": "increase in authorised \nshare capital from \u20b9134,500,000 divided into 1,200,000 equity shares of \u20b910 each, 3,00,000 \npreference shares of \u20b910 each, and 450,000 preference shares of \u20b9100 each and 745,000 \npreference shares of \u20b9100 each. to \u20b9174,500,000",
+    "confidence": 0.95
+  }
+]

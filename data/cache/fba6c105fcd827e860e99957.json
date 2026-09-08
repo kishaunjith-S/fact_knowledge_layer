@@ -1,0 +1,44 @@
+[
+  {
+    "subject": "Sahil Barua",
+    "subject_key": "sahil_barua",
+    "measure": "role",
+    "measure_key": "role",
+    "value_type": "text",
+    "value_num": null,
+    "value_text": "Key management personnel",
+    "unit_raw": null,
+    "period_label": null,
+    "basis": {},
+    "evidence_quote": "Remuneration to key \nmanagement personnel\n\nSalary and \nother \nemployee \nbenefits\n\nSahil Barua",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Anjali Bansal",
+    "subject_key": "anjali_bansal",
+    "measure": "role",
+    "measure_key": "role",
+    "value_type": "text",
+    "value_num": null,
+    "value_text": "Non-executive director",
+    "unit_raw": null,
+    "period_label": null,
+    "basis": {},
+    "evidence_quote": "Payment to non-\nexecutive directors\n\nFees to \nnon-\nexecutive \ndirectors\n\nAnjali Bansal",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Sandeep Kumar Barasia",
+    "subject_key": "sandeep_kumar_barasia",
+    "measure": "role",
+    "measure_key": "role",
+    "value_type": "text",
+    "value_num": null,
+    "value_text": "Key management personnel",
+    "unit_raw": null,
+    "period_label": null,
+    "basis": {},
+    "evidence_quote": "Loan and advances to \nkey management \npersonnel\n\nLoan and \nadvances \nto KMP\n\nSandeep Kumar Barasia",
+    "confidence": 0.95
+  }
+]

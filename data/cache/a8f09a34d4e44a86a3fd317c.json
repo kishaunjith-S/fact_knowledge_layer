@@ -1,0 +1,16 @@
+[
+  {
+    "subject": "Spoton",
+    "subject_key": "spoton",
+    "measure": "Acquisition date",
+    "measure_key": "acquisition_date",
+    "value_type": "date",
+    "value_num": null,
+    "value_text": "August 24, 2021",
+    "unit_raw": null,
+    "period_label": "nine months period ended December 31, 2021",
+    "basis": {},
+    "evidence_quote": "results of Spoton from the date of acquisition of Spoton (i.e. August 24, 2021).",
+    "confidence": 1.0
+  }
+]

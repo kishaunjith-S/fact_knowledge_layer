@@ -1,0 +1,58 @@
+[
+  {
+    "subject": "the company",
+    "subject_key": "the_company",
+    "measure": "Cost incurred on well-being measures as a % of total turnover of the company",
+    "measure_key": "cost_incurred_on_well_being_measures_as_a_percentage_of_total_turnover",
+    "value_type": "numeric",
+    "value_num": 0.34,
+    "value_text": null,
+    "unit_raw": "%",
+    "period_label": "FY24",
+    "basis": {},
+    "evidence_quote": "Cost incurred on well- being measures as a % of total  turnover of  the company*\n0.34%",
+    "confidence": 1.0
+  },
+  {
+    "subject": "the company",
+    "subject_key": "the_company",
+    "measure": "Cost incurred on well-being measures as a % of total turnover of the company",
+    "measure_key": "cost_incurred_on_well_being_measures_as_a_percentage_of_total_turnover",
+    "value_type": "numeric",
+    "value_num": 0.21,
+    "value_text": null,
+    "unit_raw": "%",
+    "period_label": "FY23",
+    "basis": {},
+    "evidence_quote": "Cost incurred on well- being measures as a % of total  turnover of  the company*\n0.34%\n0.21%",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Employees",
+    "subject_key": "employees",
+    "measure": "Child care/creche benefits rollout date",
+    "measure_key": "child_care_creche_benefits_rollout_date",
+    "value_type": "date",
+    "value_num": null,
+    "value_text": "April 2023",
+    "unit_raw": null,
+    "period_label": null,
+    "basis": {},
+    "evidence_quote": "Child care/creche benefits were rolled out for all Employees in April 2023.",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Workers",
+    "subject_key": "workers",
+    "measure": "Child care/creche facilities rollout date",
+    "measure_key": "child_care_creche_facilities_rollout_date",
+    "value_type": "date",
+    "value_num": null,
+    "value_text": "April 2023",
+    "unit_raw": null,
+    "period_label": null,
+    "basis": {},
+    "evidence_quote": "Child care/creche facilities were rolled out for all Workers in April 2023.",
+    "confidence": 1.0
+  }
+]

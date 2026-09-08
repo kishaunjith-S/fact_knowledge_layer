@@ -1,0 +1,44 @@
+[
+  {
+    "subject": "Delhivery Private Limited",
+    "subject_key": "delhivery_private_limited",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 204500000,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "March 2, 2017",
+    "basis": {},
+    "evidence_quote": "to \u20b9204,500,000 \ndivided into 1,200,000 equity shares of \u20b910 each, 300,000 preference shares of \u20b910 each and \n1,895,000 preference shares of \u20b9100 each  \nMarch 2, 2017",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Private Limited",
+    "subject_key": "delhivery_private_limited",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 288533700,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "June 19, 2017",
+    "basis": {},
+    "evidence_quote": "to \u20b9288,533,700 \ndivided into 1,200,000 equity shares of \u20b910 each, 300,000 preference shares of \u20b910 each and \n2,735,337 preference shares of \u20b9100 each  \nJune 19, 2017",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Private Limited",
+    "subject_key": "delhivery_private_limited",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 290135980,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "November 6, 2018",
+    "basis": {},
+    "evidence_quote": "to \u20b9290,135,980 \ndivided into 1,360,228 equity shares of \u20b910 each, 300,000 preference shares of \u20b910 each and \n2,735,337 preference shares of \u20b9100 each  \nNovember 6, 2018",
+    "confidence": 1.0
+  }
+]

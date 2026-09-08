@@ -1,0 +1,152 @@
+[
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "restated loss",
+    "measure_key": "restated_loss",
+    "value_type": "numeric",
+    "value_num": 17833.04,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "Fiscal 2019",
+    "basis": {
+      "restated": true
+    },
+    "evidence_quote": "restated loss for the year has improved from \u20b917,833.04 million in Fiscal 2019",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "restated loss",
+    "measure_key": "restated_loss",
+    "value_type": "numeric",
+    "value_num": 2689.26,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "Fiscal 2020",
+    "basis": {
+      "restated": true
+    },
+    "evidence_quote": "restated loss for the year has improved from \u20b917,833.04 million in Fiscal 2019 to \u20b92,689.26 million in Fiscal 2020",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "restated loss",
+    "measure_key": "restated_loss",
+    "value_type": "numeric",
+    "value_num": 4157.43,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "Fiscal 2021",
+    "basis": {
+      "restated": true
+    },
+    "evidence_quote": "restated loss for the year has improved from \u20b917,833.04 million in Fiscal 2019 to \u20b92,689.26 million in Fiscal 2020 and to \u20b94,157.43 million in Fiscal 2021",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "restated loss",
+    "measure_key": "restated_loss",
+    "value_type": "numeric",
+    "value_num": 2974.92,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "nine months period ended December 31, 2020",
+    "basis": {
+      "restated": true
+    },
+    "evidence_quote": "from \u20b92,974.92 million for the nine months period ended December 31, 2020 to \u20b98,911.39 million for the nine months period ended December 31, 2021",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "restated loss",
+    "measure_key": "restated_loss",
+    "value_type": "numeric",
+    "value_num": 8911.39,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "nine months period ended December 31, 2021",
+    "basis": {
+      "restated": true
+    },
+    "evidence_quote": "from \u20b92,974.92 million for the nine months period ended December 31, 2020 to \u20b98,911.39 million for the nine months period ended December 31, 2021",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "total income",
+    "measure_key": "total_income",
+    "value_type": "numeric",
+    "value_num": 16948.74,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "Fiscal 2019",
+    "basis": {},
+    "evidence_quote": "total income increased from \u20b916,948.74 million in Fiscal 2019",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "total income",
+    "measure_key": "total_income",
+    "value_type": "numeric",
+    "value_num": 29886.29,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "Fiscal 2020",
+    "basis": {},
+    "evidence_quote": "total income increased from \u20b916,948.74 million in Fiscal 2019 to \u20b929,886.29 million in Fiscal 2020",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "total income",
+    "measure_key": "total_income",
+    "value_type": "numeric",
+    "value_num": 38382.91,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "Fiscal 2021",
+    "basis": {},
+    "evidence_quote": "total income increased from \u20b916,948.74 million in Fiscal 2019 to \u20b929,886.29 million in Fiscal 2020 and to \u20b938,382.91 million in Fiscal 2021",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "total income",
+    "measure_key": "total_income",
+    "value_type": "numeric",
+    "value_num": 28065.29,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "nine months period ended December 31, 2020",
+    "basis": {},
+    "evidence_quote": "from \u20b928,065.29 million for the nine months period ended December 31, 2020 to \u20b949,114.06 million for the nine months period ended",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "total income",
+    "measure_key": "total_income",
+    "value_type": "numeric",
+    "value_num": 49114.06,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "nine months period ended",
+    "basis": {},
+    "evidence_quote": "from \u20b928,065.29 million for the nine months period ended December 31, 2020 to \u20b949,114.06 million for the nine months period ended",
+    "confidence": 1.0
+  }
+]

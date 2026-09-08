@@ -1,0 +1,58 @@
+[
+  {
+    "subject": "Company",
+    "subject_key": "company",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 456035980,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": null,
+    "basis": {},
+    "evidence_quote": "authorised \nshare capital from \u20b9456,035,980",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Company",
+    "subject_key": "company",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 492535980,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": null,
+    "basis": {},
+    "evidence_quote": "authorised \nshare capital from \u20b9456,035,980 divided into 2,200,228 equity shares of \u20b910 each, 300,000 \npreference shares of \u20b910 each and 4,310,337 preference shares of \u20b9100 each to \u20b9492,535,980",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Company",
+    "subject_key": "company",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 1192535980,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "September 27, 2021",
+    "basis": {},
+    "evidence_quote": "authorised \nshare capital from \u20b9492,535,980 divided into 2,350,228 equity shares of \u20b910 each, 300,000 \npreference shares of \u20b910 each and 4,660,337 preference shares of \u20b9100 each to \u20b91,192,535,980",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Company",
+    "subject_key": "company",
+    "measure": "authorized share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 1192535980,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "September 29, 2021",
+    "basis": {},
+    "evidence_quote": "September 29, 2021 \nClause V of the Memorandum of Association was amended to reflect the sub-division in \nauthorized share capital from \u20b91,192,535,980",
+    "confidence": 1.0
+  }
+]

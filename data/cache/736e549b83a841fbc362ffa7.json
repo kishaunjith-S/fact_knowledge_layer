@@ -1,0 +1,134 @@
+[
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "Revenue from Services",
+    "measure_key": "revenue_from_services",
+    "value_type": "numeric",
+    "value_num": 81415.0,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "FY24",
+    "basis": {},
+    "evidence_quote": "Revenue from services* (\u20b9 million)\n\n72,236\n\nFY23\n\n70,536\n\nFY22\n\n81,415\n\nFY24",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "Revenue from Services",
+    "measure_key": "revenue_from_services",
+    "value_type": "numeric",
+    "value_num": 72236.0,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "FY23",
+    "basis": {},
+    "evidence_quote": "Revenue from services* (\u20b9 million)\n\n72,236\n\nFY23",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "Revenue from Services",
+    "measure_key": "revenue_from_services",
+    "value_type": "numeric",
+    "value_num": 70536.0,
+    "value_text": null,
+    "unit_raw": "\u20b9 million",
+    "period_label": "FY22",
+    "basis": {
+      "pro_forma": true
+    },
+    "evidence_quote": "70,536\n\nFY22",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "Express parcel shipment volume",
+    "measure_key": "express_parcel_shipment_volume",
+    "value_type": "numeric",
+    "value_num": 740.0,
+    "value_text": null,
+    "unit_raw": "million",
+    "period_label": "FY24",
+    "basis": {},
+    "evidence_quote": "Express parcel shipment volume \n(million)\n\n225\n289\n\n582\n663\n740\n\nFY20 FY21 FY22 FY23 FY24",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "Express parcel shipment volume",
+    "measure_key": "express_parcel_shipment_volume",
+    "value_type": "numeric",
+    "value_num": 582.0,
+    "value_text": null,
+    "unit_raw": "million",
+    "period_label": "FY22",
+    "basis": {
+      "pro_forma": true
+    },
+    "evidence_quote": "Express parcel shipment volume \n(million)\n\n225\n289\n\n582\n663\n740\n\nFY20 FY21 FY22 FY23 FY24",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "Part-truckload tonnage",
+    "measure_key": "part_truckload_tonnage",
+    "value_type": "numeric",
+    "value_num": 1429.0,
+    "value_text": null,
+    "unit_raw": "thousand tonnes",
+    "period_label": "FY24",
+    "basis": {},
+    "evidence_quote": "Part-truckload tonnage* \n(thousand tonnes)\n\nFY20 FY21 FY22 FY23 FY24\n\n243\n374\n\n1,579\n\n1,101\n\n1,429",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "Part-truckload tonnage",
+    "measure_key": "part_truckload_tonnage",
+    "value_type": "numeric",
+    "value_num": 1579.0,
+    "value_text": null,
+    "unit_raw": "thousand tonnes",
+    "period_label": "FY22",
+    "basis": {
+      "pro_forma": true
+    },
+    "evidence_quote": "Part-truckload tonnage* \n(thousand tonnes)\n\nFY20 FY21 FY22 FY23 FY24\n\n243\n374\n\n1,579\n\n1,101\n\n1,429",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "Contribution of top-five customers to the overall business",
+    "measure_key": "contribution_of_top_five_customers_to_the_overall_business",
+    "value_type": "numeric",
+    "value_num": 38.4,
+    "value_text": null,
+    "unit_raw": "%",
+    "period_label": "FY24",
+    "basis": {},
+    "evidence_quote": "Contribution of top-five customers \nto the overall business (%)\n\n41.8\n42.7\n40.5\n39.1\n38.4\n\nFY20 FY21 FY22 FY23 FY24",
+    "confidence": 0.95
+  },
+  {
+    "subject": "Delhivery Limited",
+    "subject_key": "delhivery_limited",
+    "measure": "Net working capital days",
+    "measure_key": "net_working_capital_days",
+    "value_type": "numeric",
+    "value_num": 31.0,
+    "value_text": null,
+    "unit_raw": null,
+    "period_label": "FY24",
+    "basis": {},
+    "evidence_quote": "Net working capital days\n\n73\n\n47\n\n37\n38\n31\n\nFY20 FY21 FY22 FY23 FY24",
+    "confidence": 0.95
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "subject": "Memorandum of Association",
+    "subject_key": "memorandum_of_association",
+    "measure": "authorized share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 440135980,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "March 11, 2020",
+    "basis": {},
+    "evidence_quote": "authorized \nshare capital from \u20b9290,135,980 divided into 1,360,228 equity shares of \u20b910 each, 300,000 \npreference shares of \u20b910 each and 2,735,337 preference shares of \u20b9100 each to \u20b9440,135,980",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Memorandum of Association",
+    "subject_key": "memorandum_of_association",
+    "measure": "authorized share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 446535980,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "February 1, 2021",
+    "basis": {},
+    "evidence_quote": "authorized \nshare capital from \u20b9440,135,980 divided into 1,360,228 equity shares of \u20b910 each, 3,00,000 \npreference shares of \u20b910 each and 4,235,337 preference shares of \u20b9100 each to \u20b9446,535,980",
+    "confidence": 1.0
+  },
+  {
+    "subject": "Memorandum of Association",
+    "subject_key": "memorandum_of_association",
+    "measure": "authorised share capital",
+    "measure_key": "authorised_share_capital",
+    "value_type": "numeric",
+    "value_num": 456035980,
+    "value_text": null,
+    "unit_raw": "\u20b9",
+    "period_label": "August 5, 2021",
+    "basis": {},
+    "evidence_quote": "authorised \nshare capital from \u20b9446,535,980 divided into 2,000,228 equity shares of \u20b910 each, 300,000 \npreference shares of \u20b9100 each and 4,235,337 preference shares of \u20b9100 each to \u20b9456,035,980",
+    "confidence": 1.0
+  }
+]
