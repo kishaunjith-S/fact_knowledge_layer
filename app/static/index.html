@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Fact Knowledge Layer</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header>
+  <h1>Fact Knowledge Layer</h1>
+  <nav>
+    <button class="tab-btn active" data-tab="documents">Documents</button>
+    <button class="tab-btn" data-tab="facts">Facts</button>
+    <button class="tab-btn" data-tab="findings">Findings</button>
+    <button class="tab-btn" data-tab="failures">Failures</button>
+  </nav>
+</header>
+
+<main>
+  <section id="tab-documents" class="tab-panel active">
+    <div class="upload-box">
+      <input type="file" id="file-input" accept="application/pdf">
+      <button id="upload-btn">Upload PDF</button>
+      <span id="upload-status"></span>
+    </div>
+    <table id="documents-table">
+      <thead><tr><th>Filename</th><th>Pages</th><th>Claims</th><th>Vintage</th><th>Status</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section id="tab-facts" class="tab-panel">
+    <input type="text" id="facts-search" placeholder="Search subject, measure, or evidence...">
+    <table id="facts-table">
+      <thead><tr><th>Subject</th><th>Measure</th><th>Value</th><th>Period</th><th>Source</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section id="tab-findings" class="tab-panel">
+    <div class="filter-chips">
+      <button class="chip active" data-verdict="">All</button>
+      <button class="chip" data-verdict="CORROBORATES">Corroborated</button>
+      <button class="chip" data-verdict="CONTRADICTS">Contradicted</button>
+      <button class="chip" data-verdict="RECONCILED_BY_CONTEXT">Reconciled</button>
+      <button class="chip" data-verdict="INSUFFICIENT_CONTEXT">Needs review</button>
+    </div>
+    <div id="findings-list"></div>
+  </section>
+
+  <section id="tab-failures" class="tab-panel">
+    <table id="failures-table">
+      <thead><tr><th>Reason</th><th>Kind</th><th>Detail</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+</main>
+
+<script src="/app.js"></script>
+</body>
+</html>
